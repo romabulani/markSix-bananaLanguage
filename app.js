@@ -16,7 +16,9 @@ function errorHandler(error){
 function clickHandler(){
     // console.log("clicked");
     var inputText = input.value;
-    console.log(inputText);
+    // console.log(inputText);
+    if (inputText === '')
+        alert("Please Enter the text to be translated");
 
     fetch(getUrl(inputText))
     .then(response => response.json())
