@@ -1,4 +1,7 @@
-# markSix-bananaLanguage
-This app is developed as mark Six for level Zero neogcamp. The app is developed using Vanilla JS app to translate English to Banana Language, also known as Minion Language.
+# World of Minions
+
+Description : Are you the fan of Minions? Do you understand their Banana Language? Use this fun transalation app to translate English to Minion's Banana Language.
+
+Tech Stack : HTML, CSS and JS
 
 Live project is [here](https://romabulani-minionlanguage.netlify.app/).
